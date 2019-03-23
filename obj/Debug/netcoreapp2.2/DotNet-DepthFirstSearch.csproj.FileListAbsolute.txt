@@ -1,0 +1,11 @@
+D:\Source Code\GitHub\DotNet-DepthFirstSearch\DotNet-DepthFirstSearch\bin\Debug\netcoreapp2.2\DotNet-DepthFirstSearch.deps.json
+D:\Source Code\GitHub\DotNet-DepthFirstSearch\DotNet-DepthFirstSearch\bin\Debug\netcoreapp2.2\DotNet-DepthFirstSearch.runtimeconfig.json
+D:\Source Code\GitHub\DotNet-DepthFirstSearch\DotNet-DepthFirstSearch\bin\Debug\netcoreapp2.2\DotNet-DepthFirstSearch.runtimeconfig.dev.json
+D:\Source Code\GitHub\DotNet-DepthFirstSearch\DotNet-DepthFirstSearch\bin\Debug\netcoreapp2.2\DotNet-DepthFirstSearch.dll
+D:\Source Code\GitHub\DotNet-DepthFirstSearch\DotNet-DepthFirstSearch\bin\Debug\netcoreapp2.2\DotNet-DepthFirstSearch.pdb
+D:\Source Code\GitHub\DotNet-DepthFirstSearch\DotNet-DepthFirstSearch\obj\Debug\netcoreapp2.2\DotNet-DepthFirstSearch.csprojAssemblyReference.cache
+D:\Source Code\GitHub\DotNet-DepthFirstSearch\DotNet-DepthFirstSearch\obj\Debug\netcoreapp2.2\DotNet-DepthFirstSearch.csproj.CoreCompileInputs.cache
+D:\Source Code\GitHub\DotNet-DepthFirstSearch\DotNet-DepthFirstSearch\obj\Debug\netcoreapp2.2\DotNet-DepthFirstSearch.AssemblyInfoInputs.cache
+D:\Source Code\GitHub\DotNet-DepthFirstSearch\DotNet-DepthFirstSearch\obj\Debug\netcoreapp2.2\DotNet-DepthFirstSearch.AssemblyInfo.cs
+D:\Source Code\GitHub\DotNet-DepthFirstSearch\DotNet-DepthFirstSearch\obj\Debug\netcoreapp2.2\DotNet-DepthFirstSearch.dll
+D:\Source Code\GitHub\DotNet-DepthFirstSearch\DotNet-DepthFirstSearch\obj\Debug\netcoreapp2.2\DotNet-DepthFirstSearch.pdb
